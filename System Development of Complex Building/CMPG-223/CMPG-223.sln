@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CMPG-223", "CMPG-223\CMPG-223.csproj", "{0A95876D-C0D0-41FD-8FB0-905F9B88D80F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{16070788-564B-4AD4-8818-6D5EB199ED96}"
+	ProjectSection(SolutionItems) = preProject
+		Create_DataBase.sql = Create_DataBase.sql
+		Create_Tables.sql = Create_Tables.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A95876D-C0D0-41FD-8FB0-905F9B88D80F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A95876D-C0D0-41FD-8FB0-905F9B88D80F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A95876D-C0D0-41FD-8FB0-905F9B88D80F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A95876D-C0D0-41FD-8FB0-905F9B88D80F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E48C9651-5E4D-4C05-9244-DA48D5715AF1}
+	EndGlobalSection
+EndGlobal
